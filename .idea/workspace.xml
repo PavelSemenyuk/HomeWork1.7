@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4065f360-c6fe-426f-a76f-83d9f17f400d" name="Changes" comment="start commit" />
+    <list default="true" id="4065f360-c6fe-426f-a76f-83d9f17f400d" name="Changes" comment="ДЗ по циклам урок 2">
+      <change beforePath="$PROJECT_DIR$/src/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674210208937</updated>
       <workItem from="1674210210142" duration="16334000" />
-      <workItem from="1674237107827" duration="2199000" />
+      <workItem from="1674237107827" duration="2504000" />
     </task>
     <task id="LOCAL-00001" summary="start commit">
       <created>1674239864510</created>
@@ -78,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674239864510</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ДЗ по циклам урок 2">
+      <created>1674240189905</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674240189905</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="start commit" />
+    <MESSAGE value="ДЗ по циклам урок 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ по циклам урок 2" />
   </component>
 </project>
